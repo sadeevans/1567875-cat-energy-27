@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Наталия Садеева](https://up.htmlacademy.ru/adaptive/27/user/1567875).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Артёмов](https://htmlacademy.ru/profile/firefoxic).
 
 ---
 
